@@ -5,7 +5,8 @@
 | Projektname      | .brain (“DotBrain”)                                          |
 | :--------------- | ------------------------------------------------------------ |
 | Titel            | Eine Matchmaking Plattform für Wissensaustausch auf digitalem Weg. |
-| Devpost          | https://devpost.com/software/wodahoam-lockdownlearning       |
+| Devpost-Link     | https://devpost.com/software/wodahoam-lockdownlearning       |
+| GitHub-Link      | https://github.com/IneffableKoD/wirvsvirus_dotbrain          |
 | Themenbereich    | 1_019_e-learning<br />1_019_e-learinng_mentoringplattform    |
 | Begünstigter     | #WirVsVirus Hackathon                                        |
 | Team-Mitglieder  | Carolin Glaeser<br />Helena Wollmann<br />Karsten Kreh<br />Lorenz Meier<br />Lynn Fehlbaum<br />Marcel Donges<br />Max Emrich<br />Orlando Jähde<br />Timo Morawitz<br />Yannick Zehnder |
