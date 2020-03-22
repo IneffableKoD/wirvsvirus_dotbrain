@@ -7,6 +7,7 @@
 | Titel            | Eine Matchmaking Plattform für Wissensaustausch auf digitalem Weg. |
 | Devpost-Link     | https://devpost.com/software/wodahoam-lockdownlearning       |
 | GitHub-Link      | https://github.com/IneffableKoD/wirvsvirus_dotbrain          |
+| Produktdemo      | https://www.youtube.com/watch?v=DacZ04P6K_U                  |
 | Themenbereich    | 1_019_e-learning<br />1_019_e-learinng_mentoringplattform    |
 | Begünstigter     | #WirVsVirus Hackathon                                        |
 | Team-Mitglieder  | Carolin Glaeser<br />Helena Wollmann<br />Karsten Kreh<br />Lorenz Meier<br />Lynn Fehlbaum<br />Marcel Donges<br />Max Emrich<br />Orlando Jähde<br />Timo Morawitz<br />Yannick Zehnder |
