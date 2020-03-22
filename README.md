@@ -16,6 +16,8 @@
 | Softwarelizent   | AGPLv3 / cc-enterprise                                       |
 | Status           | In Bearbeitung                                               |
 
+![Logo_Dotbrain](pictures/200322_brain_Logo.jpg)
+
 ## Kurzbeschrieb
 
 Wussten Sie, dass Fernunterricht mit digtalen Mitteln zwar möglich ist, aber die Anbieter von Wissen und die Wissenssuchenden schlecht Vernetzt sind? Alleine in Deutschland haben wir über 14.5 Mio. Schüler:innen, Student:innen, Lehrer:innen und Dozent:innen. .brain bietet das Portal, Nachfrage und Angebot an Wissensvermittlung in dieser Zielgruppe zusammenzuführen. Im Gegensatz zu anderen Alternativen sind wir, darauf konzentriert einfach und schnell Kontakte herzustellen. Zum Team gehören kreative Köpfe mit den verschiedensten Fachkenntnissen. Im Wesentlichen sind wir das Ebay für Wissensaustausch und unsere Vision ist es, Wege zu digital vermitteltem Wissen drastisch zu kürzen. Wir haben bereits eine Demo des Portals erstellt und erste funktionale Komponenten erstellen, wir laden alle ein, das Produkt voranzutreiben und zu popularisieren. Covid-19 kann unseren Wissensdurst nicht behindern! 
